@@ -12,8 +12,9 @@
 
 ## Connect with me:
 <p align="left">
-<a href="https://linkedin.com/in/chi-hsuan-wu-088220253" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chi-hsuan-wu-088220253" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/21054354" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21054354" height="30" width="40" /></a>
 <a href="https://fb.com/100006485524915" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100006485524915" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/chi-hsuan-wu-088220253" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chi-hsuan-wu-088220253" height="30" width="40" /></a>
 </p>
 
 <br>
