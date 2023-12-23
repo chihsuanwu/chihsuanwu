@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chi-Hsuan Wu</h1>
-<h3 align="center">A full stack developer from Taiwan</h3>
+<h3 align="center">Learning new technologies to solve real-world problems</h3>
 <br>
 
 - 🔭 I’m currently working on [TransTaiwan: Railway Navigator](https://blog.transtaiwan.com)
